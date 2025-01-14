@@ -66,7 +66,7 @@ function App() {
                 className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
               />
               <p className="text-gray-700 mb-4">
-                Mouse adalah perangkat input yang digunakan untuk menggerakkan kursor pada layar dan mengaktifkan objek dengan klik.
+              Mouse adalah perangkat input yang digunakan untuk mengontrol kursor pada layar komputer, memungkinkan pengguna untuk memilih, mengklik, menyeret, dan menjalankan perintah. Mouse dapat berbasis sensor optik atau laser untuk mendeteksi gerakan, dengan variasi seperti trackball yang menggunakan bola yang digerakkan oleh pengguna. Alat ini penting untuk navigasi antarmuka grafis dengan akurasi dan kemudahan.
               </p>
             </div>
             <div className="flex flex-col md:flex-row items-center">
@@ -76,7 +76,7 @@ function App() {
                 className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
               />
               <p className="text-gray-700 mb-4">
-                Keyboard adalah perangkat input yang digunakan untuk mengetik teks atau perintah ke dalam komputer.
+              Keyboard adalah perangkat input utama untuk memasukkan data berupa teks, angka, dan simbol ke dalam komputer. Terdiri dari tombol-tombol yang tersusun dalam tata letak seperti QWERTY, keyboard digunakan untuk mengetik, menjalankan perintah, atau menggunakan shortcut. Jenisnya mencakup keyboard mekanik dengan sakelar fisik dan membran yang menggunakan lapisan fleksibel.
               </p>
             </div>
             <div className="flex flex-col md:flex-row items-center">
@@ -86,7 +86,7 @@ function App() {
                 className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
               />
               <p className="text-gray-700">
-                Mikrofon adalah perangkat input yang digunakan untuk merekam suara dan mengirimkannya ke komputer.
+              Microphone adalah perangkat input audio yang mengubah gelombang suara menjadi sinyal listrik untuk direkam atau dikirimkan ke perangkat lain. Digunakan dalam aplikasi seperti panggilan suara, perekaman audio, atau pengenalan suara, mikrofon tersedia dalam berbagai jenis, seperti kondensor untuk kualitas tinggi dan dinamis untuk penggunaan umum.
               </p>
             </div>
           </section>
