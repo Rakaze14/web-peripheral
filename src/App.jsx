@@ -66,7 +66,7 @@ function App() {
                 className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
               />
               <p className="text-gray-700 mb-4">
-              Mouse adalah perangkat input yang digunakan untuk mengontrol kursor pada layar komputer, memungkinkan pengguna untuk memilih, mengklik, menyeret, dan menjalankan perintah. Mouse dapat berbasis sensor optik atau laser untuk mendeteksi gerakan, dengan variasi seperti trackball yang menggunakan bola yang digerakkan oleh pengguna. Alat ini penting untuk navigasi antarmuka grafis dengan akurasi dan kemudahan.
+              Mouse adalah perangkat input yang digunakan untuk mengontrol kursor pada layar komputer, memungkinkan pengguna untuk memilih, mengklik, menyeret, dan menjalankan perintah. Mouse dapat berbasis sensor optik atau laser untuk mendeteksi gerakan.
               </p>
             </div>
             <div className="flex flex-col md:flex-row items-center">
@@ -76,7 +76,7 @@ function App() {
                 className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
               />
               <p className="text-gray-700 mb-4">
-              Keyboard adalah perangkat input utama untuk memasukkan data berupa teks, angka, dan simbol ke dalam komputer. Terdiri dari tombol-tombol yang tersusun dalam tata letak seperti QWERTY, keyboard digunakan untuk mengetik, menjalankan perintah, atau menggunakan shortcut. Jenisnya mencakup keyboard mekanik dengan sakelar fisik dan membran yang menggunakan lapisan fleksibel.
+              Keyboard adalah perangkat input utama untuk memasukkan data berupa teks, angka, dan simbol ke dalam komputer. Terdiri dari tombol-tombol yang tersusun dalam tata letak seperti QWERTY, keyboard digunakan untuk mengetik, menjalankan perintah, atau menggunakan shortcut.
               </p>
             </div>
             <div className="flex flex-col md:flex-row items-center">
@@ -86,7 +86,7 @@ function App() {
                 className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
               />
               <p className="text-gray-700">
-              Microphone adalah perangkat input audio yang mengubah gelombang suara menjadi sinyal listrik untuk direkam atau dikirimkan ke perangkat lain. Digunakan dalam aplikasi seperti panggilan suara, perekaman audio, atau pengenalan suara, mikrofon tersedia dalam berbagai jenis, seperti kondensor untuk kualitas tinggi dan dinamis untuk penggunaan umum.
+              Microphone adalah perangkat input audio yang mengubah gelombang suara menjadi sinyal listrik untuk direkam atau dikirimkan ke perangkat lain.
               </p>
             </div>
           </section>
@@ -102,7 +102,7 @@ function App() {
                 className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
               />
               <p className="text-gray-700 mb-4">
-                CPU (Central Processing Unit) adalah komponen utama dalam komputer yang bertanggung jawab untuk menjalankan perintah dan proses data.
+              CPU adalah komponen utama komputer yang berfungsi sebagai pusat pemrosesan data, mengelola instruksi dari perangkat lunak, dan menjalankan perhitungan logis serta aritmatika.
               </p>
             </div>
             <div className="flex flex-col md:flex-row items-center">
@@ -112,7 +112,7 @@ function App() {
                 className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
               />
               <p className="text-gray-700">
-                GPU (Graphics Processing Unit) adalah komponen yang mengelola pemrosesan grafis dan video, serta membantu dalam rendering gambar.
+              GPU adalah prosesor khusus yang dirancang untuk memproses grafis dan melakukan perhitungan paralel dalam jumlah besar. Biasanya digunakan untuk rendering visual pada game, desain grafis, atau aplikasi berbasis AI dan komputasi ilmiah.
               </p>
             </div>
             <div className="flex flex-col md:flex-row items-center">
@@ -122,7 +122,7 @@ function App() {
                 className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
               />
               <p className="text-gray-700">
-                GPU (Graphics Processing Unit) adalah komponen yang mengelola pemrosesan grafis dan video, serta membantu dalam rendering gambar.
+              RAM adalah memori sementara yang digunakan komputer untuk menyimpan data yang sedang diproses atau dibutuhkan secara cepat oleh CPU.
               </p>
             </div>
           </section>
@@ -138,7 +138,7 @@ function App() {
                 className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
               />
               <p className="text-gray-700 mb-4">
-                Monitor adalah perangkat output yang menampilkan gambar, teks, dan informasi lainnya dari komputer ke pengguna.
+              Monitor adalah perangkat output visual yang menampilkan informasi dari komputer dalam bentuk gambar atau teks di layar. Monitor menggunakan teknologi seperti LCD, LED, atau OLED untuk menghasilkan tampilan dengan resolusi dan kualitas warna yang bervariasi.
               </p>
             </div>
             <div className="flex flex-col md:flex-row items-center">
@@ -148,7 +148,7 @@ function App() {
                 className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
               />
               <p className="text-gray-700">
-                Speaker adalah perangkat output yang mengeluarkan suara dari komputer, digunakan untuk mendengarkan musik atau suara lainnya.
+              Speaker adalah perangkat output audio yang mengubah sinyal listrik menjadi gelombang suara untuk didengar oleh pengguna. 
               </p>
             </div>
           </section>
