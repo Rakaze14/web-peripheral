@@ -112,7 +112,7 @@ function App() {
                 className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
               />
               <p className="text-gray-700 mb-4">
-              <href>CPU</href> adalah komponen utama komputer yang berfungsi sebagai pusat pemrosesan data, mengelola instruksi dari perangkat lunak, dan menjalankan perhitungan logis serta aritmatika.
+              CPU adalah komponen utama komputer yang berfungsi sebagai pusat pemrosesan data, mengelola instruksi dari perangkat lunak, dan menjalankan perhitungan logis serta aritmatika.
               </p>
             </div>
             <div className="flex flex-col md:flex-row items-center">
@@ -139,35 +139,6 @@ function App() {
         )}
 
         {activeTab === "output" && (
-          <section id="output" className="w-full md:w-3/4 lg:w-1/2 bg-white p-6 rounded-lg shadow-md mb-6 mx-auto">
-            <div className="flex items-center mb-4">
-              <div className="w-4 h-4 bg-[#104041] mr-2"></div>
-              <h2 className="text-2xl font-semibold text-[#104041]">Peralatan Output</h2>
-            </div>
-            <div className="flex flex-col md:flex-row items-center">
-              <img
-                src={monitorImage}
-                alt="Monitor"
-                className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
-              />
-              <p className="text-gray-700 mb-4">
-              Monitor adalah perangkat output visual yang menampilkan informasi dari komputer dalam bentuk gambar atau teks di layar. Monitor menggunakan teknologi seperti LCD, LED, atau OLED untuk menghasilkan tampilan dengan resolusi dan kualitas warna yang bervariasi.
-              </p>
-            </div>
-            <div className="flex flex-col md:flex-row items-center">
-              <img
-                src={speakerImage}
-                alt="Speaker"
-                className="w-32 h-32 object-cover rounded-lg mb-4 md:mb-0 md:mr-6"
-              />
-              <p className="text-gray-700">
-              Speaker adalah perangkat output audio yang mengubah sinyal listrik menjadi gelombang suara untuk didengar oleh pengguna. 
-              </p>
-            </div>
-          </section>
-        )}
-
-{activeTab === "output" && (
           <section id="output" className="w-full md:w-3/4 lg:w-1/2 bg-white p-6 rounded-lg shadow-md mb-6 mx-auto">
             <div className="flex items-center mb-4">
               <div className="w-4 h-4 bg-[#104041] mr-2"></div>
